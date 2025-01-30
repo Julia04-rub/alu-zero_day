@@ -1,3 +1,2 @@
 #!/bin/bash
-'my first commit'
-
+echo "This School is so cool!"
